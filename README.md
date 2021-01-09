@@ -1,6 +1,7 @@
 <p align="centre">
-  <img width="100px" src="https://github.com/Siddharthdatta/Siddharthdatta/blob/main/animated-gifs.gif" alt="Animated gif"
-       </p>   
+  <img width="1000px" src="https://github.com/Siddharthdatta/Siddharthdatta/blob/main/animated-gifs.gif" alt="Animated gif"
+</p>   
+  
 ### Hi there 👋
 
 - 🔭 I’m currently working on Python
