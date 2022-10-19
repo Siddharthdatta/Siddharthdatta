@@ -4,10 +4,10 @@
   
 ### Hi there 👋
 
-- 🔭 I’m currently working on Student Management System
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about C ,My Sql, Stacks
+- 💬 Ask me about C ,My Sql,Java
 - 📫 How to reach me: siddharthdatta09@gmail.com
 - 😄 Pronouns: He/His
 
